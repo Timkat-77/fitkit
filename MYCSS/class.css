@@ -1,0 +1,669 @@
+.body{
+  margin: 0;
+  padding:0;
+}
+
+
+
+
+
+img{
+  width: 120px;
+  padding-left: 30px;
+  }
+
+  
+  .Header{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 0px;
+    margin-right: px;
+    align-items: center;
+    background-color: #ffffff;
+    position:fixed;    
+    padding-top: 20px;
+    padding-bottom: 20px;
+    top: 0;
+    right: 0;
+    left: 0;
+    
+    
+  }
+
+  .Header a{
+    text-decoration: none;
+    padding-right: 30px;
+    color: #7a6c79;
+    font-family: arial;
+    font-size: small;
+  }
+
+.center{
+margin-left: 200px;  
+}
+  
+.right{
+margin-left: 250px;
+background-color:#e24548;
+color: #f5f5f5;
+width: 170px;
+height: 50px;
+border-radius: 25px;
+border: none;
+font-size: large;
+font-family: arial;
+justify-content:space-around;
+
+}
+
+
+
+
+
+
+.running-man{
+background-image:url(/assets/images/Jogging\ man.jpg);
+width: 100%;
+height: 400px;
+background-size: cover;
+background-repeat: no-repeat;
+margin-bottom: 80px;
+}
+
+
+.Hero-1{
+  
+  
+}
+
+.running-man{
+display: flex;
+padding-top: 250px;
+justify-content: space-around;
+color: #f5f5f5;
+padding-bottom: 100px;
+}
+
+.Sign-up{
+padding-top: 30px;
+background-color: #312424d8;
+padding: 30px;
+border-radius: 7px;
+
+}
+
+.Sign-up p{
+  font-family: arial;
+  font-size: 15px;
+  margin-bottom: 20px;
+  line-height: 20px;
+
+}
+
+.Sign-up input{
+  width: 370px;
+  height: 48px;
+  border-radius: 5px;
+  margin-bottom: 7px;
+  font-family: arial;
+  font-size: medium;
+  padding-left: 10px;
+}
+
+.Sign-up button{
+  width: 380px;
+  height: 52px; 
+  background-color: #e24548;
+  color: #f5f5f5;
+  font-family: arial;
+  font-size: 18px;
+  border: none;
+}
+
+
+
+
+
+#privacy{
+  font-size: 12px;
+}
+
+.start-off{
+  font-family:Arial, sans-serif;
+  font-size: 30px;
+  margin-top: 85px;
+
+}
+
+.start-off h2{ 
+  font-weight: lighter;
+
+}
+.start-off p{
+  font-family: Tahoma, sans-serif;
+  font-size: 22px;
+  line-height: 25px;
+  font-weight: lighter;
+  width: 400px;
+}
+
+
+.affordable h2{
+  font-family: Arial, sans-serif;
+  font-size: 32px;
+  text-align: center;
+  color:#222222 ;
+  font-weight: lighter;
+}
+
+.affordable p{
+    color: #7a6c79;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    margin-bottom: 80px;
+}
+
+.Sub-about{
+  display: flex;
+  justify-content: space-around;
+  }
+
+
+.Sub-about img{
+  width: 350px;
+}
+
+.Sub-about p{
+  margin-left: 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 13px;
+  color: #7a6c79;
+  line-height: 20px;
+  text-align: center;
+
+
+
+}
+
+.Sub-about h3{
+  margin-left: 130px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: lighter;
+
+}
+
+.sub-fanatics{
+  display: flex;
+  margin-top: 150px;
+  justify-content: space-around;
+}
+
+.film{
+  width: 550px;
+  box-shadow: 1px 2px 5px 0.4px;
+}
+
+.sub-fanatics h2{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: lighter;
+  font-size: 30px;
+  margin-top: 90px;
+}
+
+.sub-fanatics p{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 13px;
+  color: #7a6c79;
+  line-height: 20px;
+
+}
+
+.sub-trainer{
+display: flex;
+justify-content: space-around;
+margin-top: 190px;
+}
+
+.sub-trainer h2{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: lighter;
+  font-size: 30px;
+}
+
+.sub-trainer p{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 13px;
+  color: #7a6c79;
+  line-height: 20px;
+}
+
+.CV img{
+  width: 550px;
+}
+
+
+
+.Kind{
+  background-color: #f6f8fa;
+  width: 100%;
+  height: 455px;
+  margin-top: 70px;
+}
+
+
+
+.sub-kind{
+text-align: center;
+padding-top: 60px;
+font-family: arial;
+font-weight: lighter;
+  
+}
+
+.sub-3{
+  display: flex;
+  justify-content: space-around; 
+}
+
+.Jon p{
+  font-family:Verdana, Tahoma, sans-serif;
+  font-size: 17px;
+  line-height:30px;
+  color: #7a6c79;
+  text-align: center;
+  font-weight:lighter;
+}
+
+.Jon img{
+width: 75px;
+margin-left: 190px;
+}
+
+.Jon span{
+  font-style: italic;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 13px;
+  color: #7a6c79;
+  margin-left: 180px;
+
+}
+
+.plan{
+  background-image: url(/assets/images/fit3pushup.jpg);
+  width: auto;
+  height: 550px;
+  background-size: cover;
+  padding-bottom: 100px;
+  margin-top: 0px;
+  
+}
+
+.No-excuse h1{
+  color: #f5f5f5;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 40px;
+  font-weight: lighter;
+  padding-top: 50px;
+
+}
+
+.casual{
+  height: 400px;
+  width: 400px;
+  border: 1px solid #f5f5f5;
+  text-align: center;
+  margin-top: 6.5px;
+  border-radius: 2px;
+  
+
+
+}
+
+
+.casual-2{
+  height: 415px;
+  width: 400px;
+  border:none;
+  text-align: center;
+  background-color:#e24548;
+  border-radius: 2px;
+
+
+}
+
+
+.casual-2 h5{
+  color: #f5f5f5;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: lighter;
+  font-size: 11.6px;
+  
+}
+
+.casual h5{
+  color: #f5f5f5;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: lighter;
+  font-size: 11.6px;
+  
+}
+
+
+.casual h1{
+  color: #f5f5f5;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: lighter;
+  font-size: 30px;
+  
+}
+
+.casual-2 h1{
+  color: #f5f5f5;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: lighter;
+  font-size: 30px;
+  
+}
+
+
+.casual h3{
+  color: #f5f5f5;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: lighter;
+  font-size: 18px;
+}
+
+
+.casual-2 h3{
+  color: #f5f5f5;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: lighter;
+  font-size: 18px;
+}
+
+
+
+.casual p{
+  color: #f5f5f5;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: lighter;
+  font-size: 16px;
+  line-height: 32px;
+}
+
+.casual-2 p{
+  color: #f5f5f5;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: lighter;
+  font-size: 16px;
+  line-height: 32px;
+}
+.figure-1{
+  font-size: 90px;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+
+.price{
+  display: flex;
+  margin-left: 280px;
+}
+
+
+.sub-casual{
+  margin-top: 40px;
+}
+
+.Need p{
+  color: #f5f5f5;
+  color: #f5f5f5;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: lighter;
+  font-size: 14px;
+}
+
+.Need{
+  text-align: center;
+}
+
+.Need strong{
+color:#f6f8fa ;
+text-decoration: none;
+}
+
+s
+.Need a{
+  text-decoration: none;
+}
+
+.map{
+background-image:url(/assets/images/snipped\ map.png);
+width: 100%;
+height: 500px;
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.sub-map{
+  background-color:#d84b4bbe;
+  width: auto;
+  height:500px;
+}
+
+
+.hyde{
+  text-align: center;
+  padding-top: 130px;
+  color: #f5f5f5;
+}
+
+.hyde h1{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 50px;
+  font-weight: lighter;
+}
+
+.hyde p{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  font-weight: lighter;
+}
+
+.FAQS{
+  padding-top: 50px;
+margin-bottom: 90px;
+}
+
+.writeup-1{
+  display: flex;
+  justify-content: space-around;
+}
+
+.contract h3{
+  color:#000000;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: lighter;
+  font-size: 18px;
+}
+
+.contract p{
+  font-family:Verdana, Tahoma, sans-serif;
+  font-size: 13px;
+  line-height:18px;
+  color: #7a6c79;
+
+}
+
+.workshops h3{
+  color:#000000;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: lighter;
+  font-size: 18px;
+}
+
+.workshops P{
+  font-family:Verdana, Tahoma, sans-serif;
+  font-size: 13px;
+  line-height:18px;
+  color: #7a6c79;
+}
+
+.writeup-2 {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 70px;
+}
+
+
+.discount h3{
+  color:#000000;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: lighter;
+  font-size: 18px;
+}
+
+
+
+
+.discount p{
+  font-family:Verdana, Tahoma, sans-serif;
+  font-size: 13px;
+  line-height:18px;
+  color: #7a6c79;
+}
+
+.meal h3{
+  color:#000000;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: lighter;
+  font-size: 18px;
+}
+
+.meal p{
+  font-family:Verdana, Tahoma, sans-serif;
+  font-size: 13px;
+  line-height:18px;
+  color: #7a6c79;
+}
+
+.tweet h1{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 35px;
+  font-weight: lighter;
+  text-align: center;
+}
+
+.tweet a{
+  text-decoration: none;
+  color: #e24548;
+}
+
+
+.shaping{
+background-image:url(/assets/images/istockphoto-steps.jpg);
+width: 100%;
+height: 750px;
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.start{
+  text-align: center;
+  padding-top: 130px;
+}
+
+.start h1{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 45px;
+  font-weight: lighter;
+  color: #f5f5f5;
+}
+
+.start p{
+  font-family:Verdana, Tahoma, sans-serif;
+  font-size: 20px;
+  line-height:18px;
+  color:#f5f5f5;
+}
+.sub-form{
+  text-align: center;
+  padding-top:40px;
+  
+}
+
+.sub-form h4{
+  font-family:Verdana, Tahoma, sans-serif;
+  font-size: 15px;
+  font-weight:10px;
+  color: #f5f5f5;
+
+}
+
+.sub-form input{
+  width: 370px;
+  height: 48px;
+  border-radius: 5px;
+  margin: 2px;
+  border: none;
+  font-family: arial;
+  font-size: medium;
+  padding-left: 7px;
+}
+
+.sub-form button{
+  width: 380px;
+  height: 52px; 
+  background-color: #e24548;
+  color: #f5f5f5;
+  font-family: arial;
+  font-size: 18px;
+  border: none;
+  margin-top: 3px;
+}
+
+#privacy{
+  font-size: 12px;
+  color: #f5f5f5;
+  font-family: arial;
+}
+
+.sub-footer{
+  display: flex;
+  margin-bottom: 50px;
+  margin-top: 15px;
+  justify-content:space-around;
+  align-items: center;
+}
+
+.icons{
+  color:#7a6c79;
+  padding: 0% 10px;
+
+  
+}
+
+
+
+
+.copy-right P{
+  font-size: 12px;
+  color: #7e7b7b;
+  font-family: arial;
+  margin-left: 150px;
+
+}
+
+.kit img{
+  width: 90px;
+  margin-left: 150px;
+}
+
+@media screen and (max-width:480px){
+ h1 {
+
+  }
+
+}
